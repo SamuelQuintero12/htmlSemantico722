@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background: pink url("../assets/images/fondo.jpg") bottom right;
+    background-size: cover;
+}
+
+header{
+    margin: 20px 10px 5px 25px;
+    border:1px solid red;
+    padding: 20px;
+    width: 923px;
+}
+
+img{
+    height: 200px;
+    /* width: 150px; */
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(170, 51, 255);
+    background-color: red;
+}
+
+#titulo{
+    color: blue;
+}
+
+.activo{
+    color: red;
+}
